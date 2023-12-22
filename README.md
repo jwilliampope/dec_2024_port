@@ -1,5 +1,7 @@
 # Jack Pope Portfolio Website (dec_2024_port)
 
+See GitHub page: https://jwilliampope.github.io/dec_2024_port/
+
 ## Overview
 
 Jack Pope Portfolio Website is a responsive website showcasing my portfolio. This project was developed as part of my frontend web development practice to improve my skills in HTML, CSS, and JavaScript.
