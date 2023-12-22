@@ -1,12 +1,8 @@
-# Jack Pope Portfolio Website
+# Jack Pope Portfolio Website (dec_2024_port)
 
 ## Overview
 
-Jack Pope Portfolio Website is a responsive website showcasing the portfolio of Jack Pope. This project was developed as part of my frontend web development practice to improve my skills in HTML, CSS, and JavaScript.
-
-The website includes sections like an introduction, projects showcase, testimonials, and a contact form to provide visitors with a comprehensive view of Borrklyn's work and abilities.
-
-Live Demo: **\_\_**
+Jack Pope Portfolio Website is a responsive website showcasing my portfolio. This project was developed as part of my frontend web development practice to improve my skills in HTML, CSS, and JavaScript.
 
 ## Technologies Used
 
@@ -20,20 +16,14 @@ Live Demo: **\_\_**
 
 - Responsive Design: The website is fully responsive and adjusts to various screen sizes, ensuring an optimal viewing experience on desktop, tablets, and mobile devices.
 - Smooth Transitions: The AOS library is utilized to create smooth and elegant transitions and appearances of certain elements as the user scrolls down the page.
-- Projects Showcase: The website includes a dedicated section to showcase Borrklyn's latest projects with descriptions and links to view them.
-- Testimonials: Visitors can read testimonials from satisfied clients, giving credibility to Borrklyn's skills and services.
-- Contact Form: The contact form allows users to get in touch with Borrklyn for inquiries or collaborations.
-
-## Screenshots
-
-![Home Section](preview1.png)
-![Services Section](preview2.png)
+- Projects Showcase: The website includes a dedicated section to showcase projects with descriptions and links to view them.
+- Contact Form: The contact form allows users to get in touch with Jack for inquiries or collaborations.
 
 ## How to Use
 
-1. Clone the repository: ``
-2. Open `index.html` in your web browser to view the website locally.
+1. Clone the repository: `https://github.com/jwilliampope/dec_2024_port`
+2. Open `index.html` in your web browser to view the website locally, or use LiveServer.
 
-## Contribution
+## Contributions
 
 This project was created as a personal practice project, but contributions, bug fixes, and improvements are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
